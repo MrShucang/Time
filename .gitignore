@@ -5,3 +5,12 @@ build/
 dist/
 *.spec
 *.exe
+.dotnet/
+.tools/
+.template-hive/
+.reference/
+cipx/
+ScheduledShutdown/bin/
+ScheduledShutdown/obj/
+bin/
+obj/
